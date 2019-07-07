@@ -1,0 +1,5 @@
+/Users/sean/work/github.com/xujihui1985/learningc/async-socket-server/threaded/build/CMakeFiles/rebuild_cache.dir
+/Users/sean/work/github.com/xujihui1985/learningc/async-socket-server/threaded/build/CMakeFiles/edit_cache.dir
+/Users/sean/work/github.com/xujihui1985/learningc/async-socket-server/threaded/build/CMakeFiles/utils.dir
+/Users/sean/work/github.com/xujihui1985/learningc/async-socket-server/threaded/build/CMakeFiles/threaded-server.dir
+/Users/sean/work/github.com/xujihui1985/learningc/async-socket-server/threaded/build/CMakeFiles/utils-objs.dir

@@ -1,0 +1,5 @@
+/Users/sean/work/github.com/xujihui1985/learningc/async-socket-server/sequential/build/CMakeFiles/rebuild_cache.dir
+/Users/sean/work/github.com/xujihui1985/learningc/async-socket-server/sequential/build/CMakeFiles/edit_cache.dir
+/Users/sean/work/github.com/xujihui1985/learningc/async-socket-server/sequential/build/CMakeFiles/sequential-server.dir
+/Users/sean/work/github.com/xujihui1985/learningc/async-socket-server/sequential/build/CMakeFiles/utils.dir
+/Users/sean/work/github.com/xujihui1985/learningc/async-socket-server/sequential/build/CMakeFiles/utils-objs.dir

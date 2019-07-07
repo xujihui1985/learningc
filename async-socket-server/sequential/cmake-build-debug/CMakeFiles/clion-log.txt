@@ -1,0 +1,4 @@
+"/Users/sean/Library/Application Support/JetBrains/Toolbox/apps/CLion/ch-0/191.7479.33/CLion.app/Contents/bin/cmake/mac/bin/cmake" -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - Unix Makefiles" /Users/sean/work/github.com/xujihui1985/learningc/async-socket-server/sequential
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /Users/sean/work/github.com/xujihui1985/learningc/async-socket-server/sequential/cmake-build-debug
