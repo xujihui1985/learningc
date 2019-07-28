@@ -1,0 +1,6 @@
+/Users/sean/work/github.com/xujihui1985/learningc/mempool/build/CMakeFiles/rebuild_cache.dir
+/Users/sean/work/github.com/xujihui1985/learningc/mempool/build/CMakeFiles/edit_cache.dir
+/Users/sean/work/github.com/xujihui1985/learningc/mempool/build/CMakeFiles/mempool.dir
+/Users/sean/work/github.com/xujihui1985/learningc/mempool/build/core/CMakeFiles/rebuild_cache.dir
+/Users/sean/work/github.com/xujihui1985/learningc/mempool/build/core/CMakeFiles/edit_cache.dir
+/Users/sean/work/github.com/xujihui1985/learningc/mempool/build/core/CMakeFiles/core.dir

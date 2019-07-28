@@ -1,0 +1,36 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/sean/work/github.com/xujihui1985/learningc/mempool/core/log.h
+
+/Users/sean/work/github.com/xujihui1985/learningc/mempool/core/mempool.c
+pthread.h
+-
+stdlib.h
+-
+string.h
+-
+log.h
+/Users/sean/work/github.com/xujihui1985/learningc/mempool/core/log.h
+mempool.h
+/Users/sean/work/github.com/xujihui1985/learningc/mempool/core/mempool.h
+
+/Users/sean/work/github.com/xujihui1985/learningc/mempool/core/mempool.h
+
+/Users/sean/work/github.com/xujihui1985/learningc/mempool/core/pool.c
+stdlib.h
+-
+pool.h
+/Users/sean/work/github.com/xujihui1985/learningc/mempool/core/pool.h
+
+/Users/sean/work/github.com/xujihui1985/learningc/mempool/core/pool.h
+stdint.h
+-
+pthread.h
+-
+

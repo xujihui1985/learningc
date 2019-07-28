@@ -1,0 +1,22 @@
+# The set of languages for which implicit dependencies are needed:
+set(CMAKE_DEPENDS_LANGUAGES
+  "C"
+  )
+# The set of files for implicit dependencies of each language:
+set(CMAKE_DEPENDS_CHECK_C
+  "/Users/sean/work/github.com/xujihui1985/learningc/mempool/core/log.c" "/Users/sean/work/github.com/xujihui1985/learningc/mempool/cmake-build-debug/core/CMakeFiles/core.dir/log.c.o"
+  "/Users/sean/work/github.com/xujihui1985/learningc/mempool/core/mempool.c" "/Users/sean/work/github.com/xujihui1985/learningc/mempool/cmake-build-debug/core/CMakeFiles/core.dir/mempool.c.o"
+  "/Users/sean/work/github.com/xujihui1985/learningc/mempool/core/pool.c" "/Users/sean/work/github.com/xujihui1985/learningc/mempool/cmake-build-debug/core/CMakeFiles/core.dir/pool.c.o"
+  )
+set(CMAKE_C_COMPILER_ID "AppleClang")
+
+# The include file search paths:
+set(CMAKE_C_TARGET_INCLUDE_PATH
+  )
+
+# Targets to which this target links.
+set(CMAKE_TARGET_LINKED_INFO_FILES
+  )
+
+# Fortran module output directory.
+set(CMAKE_Fortran_TARGET_MODULE_DIR "")
