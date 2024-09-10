@@ -52,11 +52,14 @@ Node *node_pool_alloc_with_text(Node_Pool *np, const char *text_cstr) {
 // aptr absolute pointer (the value of a memory address)
 // rloc location with the relative pointer (the name of the variable that stores the relative address)
 // the value of left is the offset of the address of new node to the address of the left child of node
+// to xor 0x80000000 is to encoding the value to zero
+// so for example the range of int8 is from -128 to 127, -128 ^ 0b10000000 = 0, so we take -128 as the "zero" value of the relative pointer
+// and decode is to that the value xor  0b10000000 again as (x ^ y) ^ y == x
 #define abs_2_rel_32(rloc, aptr) do { \
-  (rloc) = (int32_t)((uint8_t*)(aptr) - (uint8_t*)&rloc); \
+  (rloc) = (int32_t)((uint8_t*)(aptr) - (uint8_t*)&rloc) ^ 0x80000000; \
 } while(0)
 
-#define rel_2_abs_32(Type, rloc) (Type*)((uint8_t *)&rloc + rloc)
+#define rel_2_abs_32(Type, rloc) (Type*)((uint8_t *)&rloc + (rloc ^ 0x80000000))
 
 void print_tree(FILE *stream, Node *node, size_t level) {
   // if (node == NULL) return;
