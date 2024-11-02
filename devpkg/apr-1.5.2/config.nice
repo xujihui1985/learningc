@@ -1,0 +1,8 @@
+#! /bin/sh
+#
+# Created by configure
+
+CFLAGS="-D_LARGEFILE64_SOURCE -D_FILE_OFFSET_BITS=64"; export CFLAGS
+"./configure" \
+"CFLAGS=-D_LARGEFILE64_SOURCE -D_FILE_OFFSET_BITS=64" \
+"$@"
